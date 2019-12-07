@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3pr5narcf5n1xe1j?svg=true)](https://ci.appveyor.com/project/aleks903/ajs7-hw-5-2)
